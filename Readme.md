@@ -1,6 +1,6 @@
 ### AJS_Symbols-Iterators
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/3guwvufh8dwk1g21?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-symbols-iterators)
 ---
 # Домашнее задание к лекции «Символы, итераторы, генераторы»
 
